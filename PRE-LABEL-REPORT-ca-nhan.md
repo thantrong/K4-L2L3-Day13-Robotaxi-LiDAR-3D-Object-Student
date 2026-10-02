@@ -153,6 +153,3 @@ ket-qua-ca-nhan-01/
 - Đồng ý chuyển sang chỉnh/QC / cần bổ sung; lý do:
 
 ---
-
-**Nộp cho:** LC của ca **2B-Lab-D305** — kèm thư mục output `ket-qua-ca-nhan-01/`.
-**Lưu ý:** bản này chứa họ tên/MSSV → **không** commit lên repo public, không đăng lên VLearn/mạng xã hội.
